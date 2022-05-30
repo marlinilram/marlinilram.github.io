@@ -7,18 +7,16 @@ date: 2018-02-15
 venue: 'ACM Transactions on Graphics 2018 (Presented at SIGGraph 2018)'
 ---
 
-[Project](http://vcc.szu.edu.cn/research/2018/AppMod.html)
-------
+##### [Project](http://vcc.szu.edu.cn/research/2018/AppMod.html)
 
-Bibtex
-------
+##### Bibtex
 
-@article{AppMod18,
-title = {Appearance Modeling via Proxy-to-Image Alignment},
-author = {Hui Huang and Ke Xie and Lin Ma and Dani Lischinski and Minglun Gong and Xin Tong and Daniel Cohen-or},
-journal = {ACM Transactions on Graphics},
-volume = {37},
-number = {1},
+@article{AppMod18,  
+title = {Appearance Modeling via Proxy-to-Image Alignment},  
+author = {Hui Huang and Ke Xie and Lin Ma and Dani Lischinski and Minglun Gong and Xin Tong and Daniel Cohen-or},  
+journal = {ACM Transactions on Graphics},  
+volume = {37},  
+number = {1},  
 pages = {10:1--10:15},  
-year = {2018},
+year = {2018},  
 }
