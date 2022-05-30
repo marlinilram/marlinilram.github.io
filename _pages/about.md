@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "personal site to host my works/notes/thoughts."
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
