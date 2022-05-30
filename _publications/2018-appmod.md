@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2018-appmod
 excerpt: 'We present a novel approach for quickly extracting a nonparametric appearance model from a single photograph of a reference object, allowing users to easily enrich detail-less 3D shapes with realistic geometric detail and surface texture.'
 date: 2018-02-15
-venue: 'ACM Transactions on Graphics 2018 (Presented at SIGGraph 2018)'
+venue: 'ACM Transactions on Graphics (Presented at SIGGRAPH 2018)'
 ---
 
 ##### [Project](http://vcc.szu.edu.cn/research/2018/AppMod.html)
