@@ -20,10 +20,7 @@ Hui Huang, Ke Xie, **Lin Ma**, Dani Lischinski, Minglun Gong, Xin Tong, Daniel C
 </div>
 
 <p style="text-align:justify;">
-<b><strong><span style="font-size:18px;">Bibtex</span></strong></b> 
-</p>
-
-<p style="text-align:justify;">
+<b><strong><span style="font-size:18px;">Bibtex</span></strong></b>
 @article{AppMod18,<br>
 title = {Appearance Modeling via Proxy-to-Image Alignment},<br>
 author = {Hui Huang and Ke Xie and Lin Ma and Dani Lischinski and Minglun Gong and Xin Tong and Daniel Cohen-or},<br>
