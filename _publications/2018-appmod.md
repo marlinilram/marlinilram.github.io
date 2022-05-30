@@ -18,9 +18,11 @@ Hui Huang, Ke Xie, **Lin Ma**, Dani Lischinski, Minglun Gong, Xin Tong, Daniel C
 <div style="text-align:left;">
 <strong><strong>Fig. 1</strong><span style="font-weight:normal;">. Assisted by a rough 3D proxy, our approach can extract the geometric and photometric appearance of a fire hydrant from a single photo (left) and&nbsp;</span><span style="font-weight:normal;">transfer it to a new target shape (R2-D2 from Star Wars).</span></strong> 
 </div>
-
+<br>
 <p style="text-align:justify;">
-<b><strong><span style="font-size:18px;">Bibtex</span></strong></b>
+<b><strong><span style="font-size:18px;">Bibtex</span></strong></b> 
+</p>
+<p style="text-align:justify;">
 @article{AppMod18,<br>
 title = {Appearance Modeling via Proxy-to-Image Alignment},<br>
 author = {Hui Huang and Ke Xie and Lin Ma and Dani Lischinski and Minglun Gong and Xin Tong and Daniel Cohen-or},<br>
