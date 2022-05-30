@@ -59,11 +59,18 @@ venue: 'Journal of Computer-Aided Design & Computer Graphics 计算机辅助设�
 	<span style="font-size:16px;color:#000000;"><strong>结 语</strong></span><br>
 &nbsp; &nbsp; &nbsp; 本文结合图形学里的快速变形算法, 提出了一种新的医学图像曲面快速配准算法, 并且加入了用户的交互, 从而实现了对配准过程进行局部优化. 实验结果表明, 本文方法最终生成的配准模型与MC 算法提取的iso 曲面十分接近, 并且能够通过使用同一模板对不同CT 数据配准获得不同CT 图像之间的对应关系, 实现如morphing 等更高级的应用; 当对足够的CT 图像进行配准后, 可以得到对该疾病各种不同类型头骨畸形形状的数据库, 同时这些配准后的头骨模型具有完全相同的网格拓扑结构, 利用统计学习的方法可以对症状进行分类, 以及更精确的畸形程度度量等. 除此之外, 本文也认为, 交互式配准工具是对现有配准工具的有利补充, 由于医学数据的复杂性, 全自动算法必然存在一些无法良好处理的特例. 在将来的工作中可以继续改进配准中的交互功能, 例如, 利用学习到的统计模型预测配准不准确的部位, 启发式地提示用户在该部分进行局部改善.
 </p>
-
-<p style="font-size:12px;background-color:#ffffff;text-align:justify;"> <span style="font-size:18px;"><span style="font-size:14px;"><strong><span style="font-size:18px;">Bibtex</span></strong><br>
-<span style="font-size:12px;">@article{SAFIntReg17,&nbsp;</span><br>
-<span style="font-size:12px;">title&nbsp;=&nbsp;{</span></span><span style="font-size:12px;">A Simple Interactive Registration Method for 3D Volumetric Medical Image</span><span style="font-size:14px;"><span style="font-size:12px;">},</span><br>
-<span style="font-size:12px;">author&nbsp;=&nbsp;{Ma Lin and Hui Huang},</span><br>
-<span style="font-size:12px;">volume&nbsp;=&nbsp;{29},</span><br>
-</span></span> 
-	</p>
+<br>
+<p style="text-align:justify;">
+<b><strong><span style="font-size:18px;">Bibtex</span></strong></b> 
+</p>
+<p style="text-align:justify;">
+@article{SAFIntReg17,<br>
+title = {A Simple Interactive Registration Method for 3D Volumetric Medical Image},<br>
+author = {Lin Ma and Hui Huang},<br>
+journal = {Journal of Computer-Aided Design & Computer Graphics},<br>
+volume = {29},<br>
+number = {2},<br>
+pages = {229-235},&nbsp;&nbsp;<br>
+year = {2017},<br>
+}
+</p>
