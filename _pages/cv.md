@@ -11,49 +11,44 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in Computer Graphics, University of Chinese Academy of Sciences, 2016
+* B.S. in Information Engineer (talented student program), South China University of Technology, 2012
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2019 - now: Senior Algorithm Engineer II
+  * Duties: 
+    * develop auto interior design system
+    * explore new XR experience for 3D content
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Aug 2017 - May 2018: Senior Algorithm Engineer
+  * Taobao, Alibaba
+  * Duties: develop web-based hybrid 3D-Panorama framework
+
+* July 2016 - Aug 2017: R&D Engineer
+  * Fusion 360, Autodesk
+  * Duties: develop and maintain parametric modeling features
+
+* Feb 2015 - Aug 2015: Visiting Scholar
+  * University of Pennsylvania
+  * Project: Geometric Modelling of Skull Deformities
+  * Supervisor: Prof. Yunhai Wang and Prof. Ladislav Kavan
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+
+Honors
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
+* Coding Master, 淘宝技术部, 2021
+* 金码奖最佳新人, 淘宝技术部, 2018
+* 中国科学院优秀学生, 2015, 2016
+* 第四届人工智能设计大赛(中国人工智能学会CAAI)二等奖, 2014
+* 三等奖学金, 华南理工大学, 2010
+
+Skills
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* C++(CGAL/LibIGL/EIGEN)
+* Python(PyTorch/PyTorch3D/PyTorchGeometric/DGL)
