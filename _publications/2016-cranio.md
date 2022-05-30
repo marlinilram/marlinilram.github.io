@@ -7,7 +7,7 @@ date: 2017-02-09
 venue: 'Journal of Computer-Aided Design & Computer Graphics 计算机辅助设计与图形学学报'
 ---
 
-Lin Ma, Hui Huang  
+**Lin Ma**, Hui Huang  
 [project page](http://vcc.szu.edu.cn/research/2017/SAFIntReg.html)/[code](https://github.com/marlinilram/cranioviewer)  
 
 <p style="text-align:center;">
