@@ -7,4 +7,5 @@ tags:
   - nerf
 ---
 
-[src](http://rgl.epfl.ch/publications/Vicini2022SDF)
+[project](http://rgl.epfl.ch/publications/Vicini2022SDF)
+
