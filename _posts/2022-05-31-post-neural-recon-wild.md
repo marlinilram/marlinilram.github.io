@@ -1,7 +1,8 @@
 ---
 title: '[PaperReading] Neural 3D Reconstruction in the Wild, SIGGRAPH 2022'
 date: 2022-05-31
-permalink: /posts/2022/05/diff-sdf/
+permalink: /posts/2022/05/neural-recon-wild/
+excerpt: ""
 tags:
   - 3d reconstruction
   - nerf
