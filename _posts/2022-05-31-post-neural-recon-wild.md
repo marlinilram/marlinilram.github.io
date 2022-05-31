@@ -2,7 +2,7 @@
 title: '[PaperReading] Neural 3D Reconstruction in the Wild, SIGGRAPH 2022'
 date: 2022-05-31
 permalink: /posts/2022/05/neural-recon-wild/
-excerpt: ""
+excerpt: "<a href="https://zju3dv.github.io/neuralrecon-w/">https://zju3dv.github.io/neuralrecon-w/</a>"
 tags:
   - 3d reconstruction
   - nerf
