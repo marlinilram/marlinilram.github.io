@@ -11,6 +11,7 @@ tags:
 [project](https://zju3dv.github.io/neuralrecon-w/)
 
 ---
+
 ## Contribution
 
 a new method that enables efficient and accurate surface reconstruction from Internet photo collections in the presence of varying illumination
@@ -19,6 +20,7 @@ a new method that enables efficient and accurate surface reconstruction from Int
 2. a new benchmark and protocol for evaluating reconstruction performance on such in-thewild scenes
 
 ---
+
 ## Motivation
 
 两个task setup 
@@ -26,6 +28,7 @@ a new method that enables efficient and accurate surface reconstruction from Int
 2. internet images in the wild, 数量大NeuS太慢, 需要更快的采样方式
 
 ---
+
 ## Method
 
 0. 针对unconstrained 网络图像, 借鉴NeRF-W思路增加latent appearance code
@@ -43,5 +46,6 @@ a new method that enables efficient and accurate surface reconstruction from Int
    - loss_color, loss_reg, loss_mask, 参考NeuS[1]
 
 ---
+
 [1] NeuS: Learning Neural Implicit Surfaces by Volume Rendering for Multi-view Reconstruction  
 [2] Instant Neural Graphics Primitives with a Multiresolution Hash Encoding
