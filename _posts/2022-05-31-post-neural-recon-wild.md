@@ -16,7 +16,7 @@ tags:
 
 a new method that enables efficient and accurate surface reconstruction from Internet photo collections in the presence of varying illumination
 
-1. a hybrid voxel- and surfaceguided sampling technique that allows for more efficient ray sampling around surfaces and leads to significant improvements in reconstruction quality
+1. a hybrid voxel- and surface- guided sampling technique that allows for more efficient ray sampling around surfaces and leads to significant improvements in reconstruction quality
 2. a new benchmark and protocol for evaluating reconstruction performance on such in-thewild scenes
 
 ---
