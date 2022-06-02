@@ -7,9 +7,9 @@ tags:
   - mathematics
 ---
 
-### SDF导数性质
+### SDF的导数性质
 <br>
-在NeuS[1]中使用了eikonal loss, 即$$(\lVert\nabla\mathcal{f}(\mathbf{p})\rVert-1)^2=0$$, 该损失的加入是为了约束MLP满足SDF的性质, 那为什么Signed Distance Function(SDF)的导数模长为1呢?
+在NeuS[1]中使用了eikonal loss, 即$$(\lVert\nabla\mathcal{f}(\mathbf{p})\rVert-1)^2=0$$, 该损失的加入是为了约束MLP满足SDF的性质, 那么为什么Signed Distance Function(SDF)的导数模长为1呢?
 
 下面给出一个简单证明
 
