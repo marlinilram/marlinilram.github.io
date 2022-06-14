@@ -21,12 +21,21 @@ tags:
 
 ### Eikonal equation (程函方程)
 <center>$$ |\nabla u(x)|=n(x) $$</center>
+
 其中$$x$$属于$$\mathbb{R}^n$$上的开子集, $$n(x)>0$$
 
-fast marching method (FMM) to solve eikonal equation, a special case of dijkstra algorithm
+Helmholtz Equation
+$$\nabla^2f=-k^2f$$
 
-wave propagation
 
-maxwell's equation
+波动方程由麦克斯韦方程组导出, 亥姆霍兹方程来自于可分离变量的波动方程, 程函方程则来自于亥姆霍兹方程的一般解
+
+程函方程揭示了波在空间中传播时形状的轨迹(trace of the shape), 也是几何光学(geometric optics)中对波动方程的本质近似(fundamental approximation)  
+
+几何光学中对光使用光线(ray)进行建模, 也就是图形学渲染中最常出现的概念之一
+
+而求解程函方程的fast marching method(FMM)则是最短路径算法(Dijkstra)的一个特例
+
+你看, 物理学和计算机如此美妙的结合在了一起
 
 [1] NeuS: Learning Neural Implicit Surfaces  by Volume Rendering for Multi-view Reconstruction
