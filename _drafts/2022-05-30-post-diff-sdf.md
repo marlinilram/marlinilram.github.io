@@ -10,3 +10,4 @@ tags:
 
 [project](http://rgl.epfl.ch/publications/Vicini2022SDF)
 
+shpere tracing, classical sdf rendering
