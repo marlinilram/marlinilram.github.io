@@ -1,0 +1,1 @@
+Eikonal rendering: Efficient light transport in refractive objects, ACM TOG 2017
