@@ -17,9 +17,10 @@ Education
 Work experience
 ======
 * 2019 - now: Senior Algorithm Engineer II
+  * Taobao, Alibaba
   * Duties: 
-    * develop auto interior design system
-    * explore XR experience for 3D content
+    * develop indoor scene reconstruction/understanding/generation algorithm
+    * explore XR experience for 2D/3D content
 
 * Aug 2017 - May 2018: Senior Algorithm Engineer
   * Taobao, Alibaba
