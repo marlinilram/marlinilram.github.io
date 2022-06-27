@@ -10,7 +10,7 @@ tags:
 
 basic quantities (wavelength dependent)
 - flux 光通量
-- radiance 辐射亮度$$L=\frac{d\Phi}{\overline{cos}\thetadAd\omega}$$
+- radiance 辐射亮度$$L=\frac{d\Phi}{\overline{cos}\theta dAd\omega}$$
 - irradiance 辐射照度$$E$$ 辐射亮度对立体角积分，随距离平方反比
 - intensity 辐射强度$$I$$ 辐射亮度对单位面积积分，与距离无关
 
