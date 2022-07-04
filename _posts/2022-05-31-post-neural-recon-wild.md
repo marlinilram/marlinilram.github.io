@@ -29,7 +29,7 @@ a new method that enables efficient and accurate surface reconstruction from Int
 
 ---
 
-## Method
+## Approach
 
 0. 针对unconstrained 网络图像, 借鉴NeRF-W思路增加latent appearance code
 1. voxel-guided 
