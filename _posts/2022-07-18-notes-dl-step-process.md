@@ -1,11 +1,10 @@
 ---
 title: '[Notes] Step-by-step process to set up deep learning projects -- Matthias Niessner'
-date: 2022-06-17
-permalink: /posts/2022/06/taichi-nerf/
+date: 2022-07-17
+permalink: /posts/2022/07/dl-step-process/
 excerpt: ""
 tags:
-  - taichi
-  - nerf
+  - deep learning
 ---
 
 General advice: start simple -> use a small architecture (less than 1 mio params). In vision, ENet or a crippled ResNet-18 (only the first blocks) is a good choice. Common mistake: train model with 100mio+ params for 3 weeks only to notice that the data loader is broken.  
